@@ -1,0 +1,128 @@
+                            CALL FOR PAPERS
+
+                               QUDOS 2015
+            1st International Workshop on Quality-Aware DevOps
+
+               Co-located with the 10th Joint Meeting of the
+              European Software Engineering Conference and the
+     ACM SIGSOFT Symposium on the Foundations of Software Engineering
+                             (ESEC/FSE 2015)
+
+                             Bergamo, Italy
+                           September 1, 2015
+
+                     http://qudos2015.fortiss.org/
+
+------------------------------------------------------------------------
+IMPORTANT DATES
+
+Abstract submission deadline          May 25, 2015
+Paper submission deadline             May 28, 2015
+Paper notification                   June 29, 2015
+Workshop date                    September 1, 2015
+
+------------------------------------------------------------------------
+SCOPE AND TOPICS
+
+DevOps has emerged in recent years as a set of principles and practices
+for smoothing out the gap between development and operations, thus
+enabling faster release cycles for complex IT services. Common tools
+and methods used in DevOps include infrastructure as code, automation
+through deep modeling of systems, continuous deployment, and continuous
+integration. As of today, software engineering research has mainly
+explored these problems from a functional perspective, trying to
+increase the benefits and generality of these methods for the end users.
+However, this has left behind the definition of methods and tools for
+DevOps to assess predict and verify quality dimensions.
+
+The QUDOS workshop focuses on the problem of how to best define and
+integrate quality assurance methods and tools in DevOps. Quality covers
+a broadly-defined set of dimensions including performance, reliability,
+safety, survivability, cost of ownership, among others. To answer this
+question, the QUDOS workshop wants to bring together experts from 
+academia and industry working in areas such as quality assurance, agile
+software engineering, and model-based development. The goal is to
+identify and disseminate novel quality-aware approaches to DevOps.
+
+Topics of interest include, but are not limited to:
+
+ * Foundations of quality assurance in DevOps:
+   Methodologies; Integration with life-cycle management; Automated tool
+   chains, Architecture patterns; etc.
+ * Quality assurance in the development phase:
+   Software models in early software development phases; Languages,
+   annotations and profiles for quality assurance; Quality analysis and
+   prediction; Optimization-based architecture design; Architectural
+   improvements; Performance anti-pattern detection; Traceability and 
+   versioning; Software regression and testing; Performance change 
+   detection; etc.
+ * Quality assurance during operation:
+   Application performance monitoring; Model-driven performance
+   measurement and benchmarking; Feedback-based quality assurance;
+   Capacity planning and forecasting; etc.
+ * Applications of DevOps:
+   Case studies in cloud computing, big data, and smart cyber-physical
+   systems; Standardization and interoperability; Novel application
+   domains.
+ * All other topics related to quality-aware DevOps
+
+For more details, please visit: http://qudos2015.fortiss.org/
+
+------------------------------------------------------------------------
+ORGANIZING COMMITTEE
+
+Workshop Chairs
+ Danilo Ardagna, Politecnico di Milano, Italy
+ Andreas Brunnert, fortiss GmbH, Germany
+ Giuliano Casale, Imperial College London, UK
+ Andre van Hoorn, University of Stuttgart, Germany
+
+Program Committee 
+ Varsha Apte, IIT Bombay, India
+ Matej Artac, XLAB, Slovenia
+ Simona Bernardi, Centro Universitario de la Defensa, AGM, Spain
+ Andre Bondi, Siemens Corporate Research, USA
+ Francesco D'Andria, ATOS, Spain
+ Wilhelm Hasselbring, Kiel University, Germany
+ Samuel Kounev, University of Wuerzburg, Germany
+ Klaus-Dieter Lange, HP, USA
+ Zhen Ming (Jack) Jiang, York University, Canada
+ Manoj Nambiar, Tata Consultancy Services, India
+ Richard Paige, University of York, UK
+ Dana Petcu, IEAT, Romania
+ Dorina Petriu, Carleton University, Canada
+ Meikel Poess, Oracle Corporation, USA
+ Matteo Rossi, Politecnico di Milano, Italy
+ Arnor Solberg, SINTEF, Norway
+ Catia Trubiani, Gran Sasso Science Institute, Italy
+ Petr Tuma, Charles University of Prague, Czech Republic
+ Liming Zhu, NICTA, Australia
+
+------------------------------------------------------------------------
+SUBMISSION GUIDELINES
+
+Authors are invited to submit original, unpublished papers that are 
+not being considered in another forum.  We solicit full papers (max 
+6 pages), short tool papers (max 2 pages), and extended abstracts 
+overviewing a related project (max 1 page). A special session will 
+be organised to showcase project posters for the extended abstracts.  
+All submissions must conform to the ACM conference format. Each 
+submission will be reviewed by at least two members of the Program 
+Committee.
+
+Papers should be submitted via EasyChair at:
+https://easychair.org/conferences/?conf=qudos2015
+
+At least one author of each accepted paper is required to attend the
+workshop and present the paper. Presented papers will be published in
+the ESEC/FSE 2015 proceedings that will be published by ACM and included
+in the ACM Digital Library.
+
+------------------------------------------------------------------------
+SUPPORT
+
+The QUDOS workshop is supported by the Research Group of the Standard
+Performance Evaluation Corporation (SPEC RG, research.spec.org) and
+by the consortia of two EU projects, MODAClouds (modaclouds.eu) and
+DICE (dice-h2020.eu).
+
